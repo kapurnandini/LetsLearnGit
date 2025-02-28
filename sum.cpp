@@ -18,7 +18,7 @@ int main(){
     cout<<"enter b";
     cin>>b;
     Hi obj;
-    cout<<obj.sum(a,b);
+    cout<<"The sum is : " << obj.sum(a,b);
     
     return 0;
 }
